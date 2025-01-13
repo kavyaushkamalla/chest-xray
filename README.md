@@ -1,2 +1,0 @@
-# chest-xray
-covid19
